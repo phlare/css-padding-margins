@@ -1,0 +1,277 @@
+.pan {
+  padding: 0;
+}
+.ptn {
+  padding-top: 0;
+}
+.pbn {
+  padding-bottom: 0;
+}
+.pln {
+  padding-left: 0;
+}
+.prn {
+  padding-right: 0;
+}
+.phn {
+  padding-left: 0;
+  padding-right: 0;
+}
+.pvn {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.pat {
+  padding: 4px;
+}
+.ptt {
+  padding-top: 4px;
+}
+.pbt {
+  padding-bottom: 4px;
+}
+.plt {
+  padding-left: 4px;
+}
+.prt {
+  padding-right: 4px;
+}
+.pht {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+.pvt {
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+.pas {
+  padding: 8px;
+}
+.pts {
+  padding-top: 8px;
+}
+.pbs {
+  padding-bottom: 8px;
+}
+.pls {
+  padding-left: 8px;
+}
+.prs {
+  padding-right: 8px;
+}
+.phs {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.pvs {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.pam {
+  padding: 16px;
+}
+.ptm {
+  padding-top: 16px;
+}
+.pbm {
+  padding-bottom: 16px;
+}
+.plm {
+  padding-left: 16px;
+}
+.prm {
+  padding-right: 16px;
+}
+.phm {
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.pvm {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+.pal {
+  padding: 24px;
+}
+.ptl {
+  padding-top: 24px;
+}
+.pbl {
+  padding-bottom: 24px;
+}
+.pll {
+  padding-left: 24px;
+}
+.prl {
+  padding-right: 24px;
+}
+.phl {
+  padding-left: 24px;
+  padding-right: 24px;
+}
+.pvl {
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+.pag {
+  padding: 36px;
+}
+.ptg {
+  padding-top: 36px;
+}
+.pbg {
+  padding-bottom: 36px;
+}
+.plg {
+  padding-left: 36px;
+}
+.prg {
+  padding-right: 36px;
+}
+.phg {
+  padding-left: 36px;
+  padding-right: 36px;
+}
+.pvg {
+  padding-top: 36px;
+  padding-bottom: 36px;
+}
+/* Margin */
+.man {
+  margin: 0;
+}
+.mtn {
+  margin-top: 0;
+}
+.mbn {
+  margin-bottom: 0;
+}
+.mln {
+  margin-left: 0;
+}
+.mrn {
+  margin-right: 0;
+}
+.mhn {
+  margin-left: 0;
+  margin-right: 0;
+}
+.mvn {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.mat {
+  margin: 4px;
+}
+.mtt {
+  margin-top: 4px;
+}
+.mbt {
+  margin-bottom: 4px;
+}
+.mlt {
+  margin-left: 4px;
+}
+.mrt {
+  margin-right: 4px;
+}
+.mht {
+  margin-left: 4px;
+  margin-right: 4px;
+}
+.mvt {
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+.mas {
+  margin: 8px;
+}
+.mts {
+  margin-top: 8px;
+}
+.mbs {
+  margin-bottom: 8px;
+}
+.mls {
+  margin-left: 8px;
+}
+.mrs {
+  margin-right: 8px;
+}
+.mhs {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.mvs {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.mam {
+  margin: 16px;
+}
+.mtm {
+  margin-top: 16px;
+}
+.mbm {
+  margin-bottom: 16px;
+}
+.mlm {
+  margin-left: 16px;
+}
+.mrm {
+  margin-right: 16px;
+}
+.mhm {
+  margin-left: 16px;
+  margin-right: 16px;
+}
+.mvm {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+.mal {
+  margin: 24px;
+}
+.mtl {
+  margin-top: 24px;
+}
+.mbl {
+  margin-bottom: 24px;
+}
+.mll {
+  margin-left: 24px;
+}
+.mrl {
+  margin-right: 24px;
+}
+.mhl {
+  margin-left: 24px;
+  margin-right: 24px;
+}
+.mvl {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+.mag {
+  margin: 36px;
+}
+.mtg {
+  margin-top: 36px;
+}
+.mbg {
+  margin-bottom: 36px;
+}
+.mlg {
+  margin-left: 36px;
+}
+.mrg {
+  margin-right: 36px;
+}
+.mhg {
+  margin-left: 36px;
+  margin-right: 36px;
+}
+.mvg {
+  margin-top: 36px;
+  margin-bottom: 36px;
+}
