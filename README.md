@@ -34,7 +34,7 @@ A simple div with medium-sized margin on the top
 <div class="mtm"></div>
 ```
 
-A simple div with large horizontal padding (on both right and
+A simple div with large horizontal padding (on both right and left)
 ```
 <div class="phl"></div>
 ```
