@@ -7,17 +7,17 @@ really basic less / css utility for adding padding and/or margins to things usin
 a three-letter acronym class can be added to any block element to easy add either padding or margin
 
 ####Type
-p -> padding
-m -> magin
+* p -> padding
+* m -> magin
 
 ####Position
-t -> top
-r -> right
-b -> bottom
-l -> left
-h -> horizontal (left and right)
-v -> vertical (top and bottom)
-a -> all (top)
+* t -> top
+* r -> right
+* b -> bottom
+* l -> left
+* h -> horizontal (left and right)
+* v -> vertical (top and bottom)
+* a -> all (top)
 
 ####Size
 default sizes listed, and available as variables in the .less format
@@ -29,11 +29,11 @@ adjust as fits your theme, and feel free to conver to em or whatever suits your 
 @positioning-large: 24px;
 @positioning-giant: 36px;
 ```
-g -> giant
-l -> large
-m -> medium
-s -> small
-n -> none
+* g -> giant
+* l -> large
+* m -> medium
+* s -> small
+* n -> none
 
 ###Examples:
 A simple div with medium-sized margin-top
