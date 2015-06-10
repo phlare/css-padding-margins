@@ -1,38 +1,34 @@
-css-padding-margins
-====================
+#css-padding-margins
+really simple less / css utility for adding padding and/or margins to things using classes. useful as a common import, or as an extra on top of your favorite reset css.
 
-really basic less / css utility for adding padding and/or margins to things using classes
+Especially useful for LESS users, but the concept carries well.
+
+I personally use it on top of bootstrap and find it saves me a lot of time.
 
 ##The gist
-a three-letter acronym class can be added to any block element to easy add either padding or margin
+a three-letter acronym class can be added to any block element to easily add either padding or margin (or both).
 
 ####Type
 * p -> padding
-* m -> magin
+* m -> margin
 
 ####Position
 * t -> top
 * r -> right
 * b -> bottom
 * l -> left
-* h -> horizontal (left and right)
+* h -> horizontal (right and left)
 * v -> vertical (top and bottom)
-* a -> all (top)
+* a -> all
 
 ####Size
-default sizes listed, and available as variables in the .less format
-adjust as fits your theme, and feel free to conver to em or whatever suits your use case.
-```
-@positioning-tiny: 4px;
-@positioning-small: 8px;
-@positioning-medium: 16px;
-@positioning-large: 24px;
-@positioning-giant: 36px;
-```
-* g -> giant
-* l -> large
-* m -> medium
-* s -> small
+(configurable in .less version)
+
+* g -> giant (default: 36px)
+* l -> large (default: 24px)
+* m -> medium (default: 16px)
+* s -> small (default: 8px)
+* t -> tiny (default: 4px;)
 * n -> none
 
 ###Examples:
